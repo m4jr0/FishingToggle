@@ -1,0 +1,13 @@
+## Interface: 16001, 120100
+## Title: FishingToggle
+## Notes: Toggle fishing pole and restore saved equipment.
+## Version: 0.1.0
+## SavedVariablesPerCharacter: FishingToggleDB
+## IconTexture: Interface\Icons\INV_Fishingpole_02
+
+Config.lua
+Localization.lua
+Logger.lua
+Equipment.lua
+Macro.lua
+FishingToggle.lua
